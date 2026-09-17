@@ -74,11 +74,11 @@ class Menu {
 
     public Menu() {
         items = new MenuItem[]{
-            new MenuItem("Adobo Rice Meal", 85.00),
-            new MenuItem("Sinigang na Baboy", 95.00),
-            new MenuItem("Fried Chicken with Rice", 75.00),
-            new MenuItem("Spaghetti", 60.00),
-            new MenuItem("Iced Tea", 25.00)
+            new MenuItem("Donut", 25.00),
+            new MenuItem("Pizza", 40.00),
+            new MenuItem("Palamig", 20.00),
+            new MenuItem("Shawarma", 60.00),
+            new MenuItem("Hotdog Sandwich", 55.00)
         };
     }
 
